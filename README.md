@@ -1,5 +1,5 @@
 # DeepSeek-OCR-2 — Setup with UV on Ubuntu 24.10
-### (RTX 4060 Ti · Driver 580 / CUDA 13.0 · Python 3.12 · uv)
+### (Nvidia Driver 580 / CUDA 13.0 · Python 3.12 · uv)
 
 > **This is a fork of [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)**
 > adapted for Ubuntu 24.10 using `uv` instead of conda.
